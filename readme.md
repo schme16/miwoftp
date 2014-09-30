@@ -2,9 +2,8 @@ MiwoFTP - File & Folder Manager
 ====
 
 
-___
 >This version is a fork that fixes the issue found in v1.0.2 where it cannot be used on admin panels that force SSL (HTTPS).
-___
+
 
 * Contributors: miwisoft, gilbertlici, schme16
 * Tags: ftp, file browser, file manager, folder, directory, file, browse, upload, edit, admin
