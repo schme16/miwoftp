@@ -1,20 +1,26 @@
-=== MiwoFTP - File & Folder Manager ===
-Contributors: miwisoft, gilbertlici
-Tags: ftp, file browser, file manager, folder, directory, file, browse, upload, edit, admin
-Donate link: http://miwisoft.com
-Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: trunk
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+MiwoFTP - File & Folder Manager
+====
+
+* Contributors: miwisoft, gilbertlici
+* Tags: ftp, file browser, file manager, folder, directory, file, browse, upload, edit, admin
+* Donate link: http://miwisoft.com
+* Requires at least: 3.5
+* Tested up to: 4.0
+* Stable tag: trunk
+* License: GPLv3
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 MiwoFTP is a smart, fast and lightweight file manager plugin that operates from the back-end of WordPress.
 
-== Description ==
+___
+
+###Description
 
 MiwoFTP is a smart, fast and lightweight file manager plugin. It operates from WordPress back-end so you don't have to use any FTP program anymore. You can browse folders, create, edit, copy, move, delete, search, upload and download files and much more.
 
-= Features =
+___
+
+###Features
 
 * Browsing files and folders
 * Showing names, file sizes, file types and permissions
@@ -25,34 +31,42 @@ MiwoFTP is a smart, fast and lightweight file manager plugin. It operates from W
 * Changing files and folders permissions (chmod)
 * Zip / UnZip files and folders
 
-= Documentation =
+___
+
+###Documentation
 
 Documentation will be maintained on the [Miwisoft.com site](http://miwisoft.com/support).
 
-= Support =
+___
+
+###Support
 
 Use the WordPress.org forums for community support. We cannot offer efficient support directly for free.
 
-== Screenshots ==
+___
 
-1. **Browser** - File/folder browser.
-2. **Edit** - File edit.
-3. **Upload** - File upload.
+###Screenshots
+1. **File/folder browser:** ![File/folder browser](https://raw.githubusercontent.com/usq-media-services/miwoftp/master/screenshots/file-folder-browser.png "File/folder browser")
+2. **File edit:** ![File edit](https://raw.githubusercontent.com/usq-media-services/miwoftp/master/screenshots/file-edit.png  "File edit")
+3. **File upload:** ![File upload](https://raw.githubusercontent.com/usq-media-services/miwoftp/master/screenshots/file-upload.png "File upload")
 
-== Installation ==
+___
 
-= Automatic Installation =
+###Installation
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
+####Automatic Installation
+>Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
-In the search field type "MiwoFTP" and click Search Plugins. Once you've found the plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by clicking "Install Now".
+>In the search field type "MiwoFTP" and click Search Plugins. Once you've found the plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by clicking "Install Now".
 
-= Manual Installation =
+####Manual Installation
 
-The manual installation method involves downloading the plugin and uploading it to your site. To do a manual install, log in to your WordPress admin panel, navigate to the Plugins menu, click Add New, click Upload (top links) and finally select the downloaded file.
+>The manual installation method involves downloading the plugin and uploading it to your site. To do a manual install, log in to your WordPress admin panel, navigate to the Plugins menu, click Add New, click Upload (top links) and finally select the downloaded file.
 
-We do not collect information about you or your server.
+##We do not collect information about you or your server.
 
-== Changelog ==
+___
+
+###Changelog
 
 Changelog is available in the following page: [http://miwisoft.com/miwoftp](http://miwisoft.com/wordpress-plugins/miwoftp-wordpress-file-manager#changelog)
