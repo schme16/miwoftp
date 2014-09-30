@@ -52,7 +52,7 @@ require MPATH_MIWOFTP_QX."/_include/user.php";
 user_load();
 //------------------------------------------------------------------------------
 if (!isset($_SESSION)) {
-	session_start();
+	//session_start();
 }
 
 if(isset($_SESSION)) 			$GLOBALS['__SESSION']=&$_SESSION;
@@ -105,9 +105,9 @@ function login() {
 
 //------------------------------------------------------------------------------
 function logout() {
-	$GLOBALS['__SESSION']=array();
-	session_destroy();
-	header("location: ".$GLOBALS["script_name"]);
+	//$GLOBALS['__SESSION']=array();
+	//session_destroy();
+	//header("location: ".$GLOBALS["script_name"]);
 }
 //------------------------------------------------------------------------------
 /**

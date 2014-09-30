@@ -4,6 +4,12 @@ MiwoFTP - File & Folder Manager
 
 >This version is a fork that fixes the issue found in v1.0.2 where it cannot be used on admin panels that force SSL (HTTPS).
 
+>To obtain a copy of the original please navigate to: http://www.pluginmirror.com/plugins/miwoftp/
+
+>Equally to obtain information about the licence of this software please visit: https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+
+>or visit: http://www.gnu.org/licenses/gpl-3.0.html for a copy of the licence in its entirety.
+
 
 * Contributors: miwisoft, gilbertlici, schme16
 * Tags: ftp, file browser, file manager, folder, directory, file, browse, upload, edit, admin
